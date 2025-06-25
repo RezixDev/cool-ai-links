@@ -45,3 +45,32 @@ https://huggingface.co/blog/vlms-2025
 
 Small, yet Efficient Vision Modell
 https://huggingface.co/blog/smolvlm
+
+# AI Persons
+
+François Chollet
+https://x.com/fchollet
+
+Andrew Ng
+https://x.com/AndrewYNg
+
+Andrej Karpathy
+https://x.com/karpathy
+
+Soumith Chintala
+https://x.com/soumithchintala
+
+Geoffrey Hinton
+https://x.com/geoffreyhinton
+
+Yann LeCun
+https://x.com/ylecun
+
+Ian Goodfellow
+https://x.com/goodfellow_ian
+
+Oriol Vinyals
+https://x.com/OriolVinyalsML
+
+Demis Hassabis
+https://x.com/demishassabis
