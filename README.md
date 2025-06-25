@@ -37,3 +37,11 @@ https://www.comfy.org/
 
 AUTOMATIC1111 - Stable Diffusion WebUI
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+# Computer Vision
+
+State of Vision Models (2025)
+https://huggingface.co/blog/vlms-2025
+
+Small, yet Efficient Vision Modell
+https://huggingface.co/blog/smolvlm
